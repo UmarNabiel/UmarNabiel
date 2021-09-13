@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UmarNabiel
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning phyton
+- 🌱 I’m currently learning pyhton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
